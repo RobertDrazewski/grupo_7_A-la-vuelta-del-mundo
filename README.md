@@ -1,4 +1,4 @@
-1) Crear el repositorio y agregar los colaboradores
+1) Crear el repositorio y agregar los colaboradores.
 
 repositorio URL entregable: https://github.com/RobertDrazewski/grupo_7_A-la-vuelta-del-mundo.git
 
