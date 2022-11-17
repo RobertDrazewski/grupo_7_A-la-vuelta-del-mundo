@@ -52,3 +52,14 @@ Entregable (Opcional): Boceto o diseño del sitio incluyendo.
 ● Tipografías
 Tip: les recomendamos crear la carpeta design para incluir este contenido.
 
+ Cierre
+Ya lo dijimos antes, pero vale la pena repetirlo: si quieren que su proyecto tenga más
+posibilidades de tener éxito, pónganle esmero a la etapa de planificación.
+Tener un documento que explique el objetivo y el contexto del sitio así como tener un listado de
+referentes provee un marco de referencia para resolver dudas.
+Tener un wireframe y un boceto del sitio permite que los integrantes del grupo trabajen por
+separado y que luego, al unir las piezas, todas coincidan. Por otro lado, es un documento de
+consulta a la hora de resolver dudas sobre cómo debe quedar tal o cual sección.
+Por último, y no menos importante, sepan que las cosas pueden romperse, pueden no salir bien
+o tan bien como esperaban, y eso es totalmente normal. Lo importante es que aprendan a
+trabajar en conjunto para que el resultado sea cada vez mejor..
