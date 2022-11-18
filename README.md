@@ -1,4 +1,4 @@
-1) Crear el repositorio y agregar los colaboradores.
+1) Crear el repositorio y agregar los colaboradores
 
 repositorio URL entregable: https://github.com/RobertDrazewski/grupo_7_A-la-vuelta-del-mundo.git
 
@@ -16,7 +16,7 @@ En "A la vuelta del muendo" nos encargamos de todo para que tu viaje destino sea
 2.2) Descripcion de los integrantes del equipo (cada uno que agregue la suya)
 
 Facu:
-Maga:
+Maga: hola
 Flor:
 Guille:
 Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordinador de tareas. 
