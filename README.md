@@ -19,7 +19,7 @@ A la vuelta del MUNDO contamos con pasajes aereos a todos los destinos, hoteles 
 2.2) Descripcion de los integrantes del equipo (cada uno que agregue la suya)
 
 Facu:
-Maga:
+Maga: cristo
 Flor:
 Guille:
 Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordinador de tareas. 
