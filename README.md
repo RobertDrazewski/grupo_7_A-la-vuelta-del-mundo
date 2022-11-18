@@ -15,9 +15,9 @@ En "A la vuelta del muendo" nos encargamos de todo para que tu viaje destino sea
 
 2.2) Descripcion de los integrantes del equipo (cada uno que agregue la suya)
 
-Facu:
+Facu: hola facu
 Maga:
-Flor:
+Flor: HOLA A TODOS
 Guille:
 Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordinador de tareas. 
 
