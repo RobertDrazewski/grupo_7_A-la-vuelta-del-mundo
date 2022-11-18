@@ -19,6 +19,11 @@ A la vuelta del MUNDO contamos con pasajes aereos a todos los destinos, hoteles 
 
 2.2) Descripcion de los integrantes del equipo (cada uno que agregue la suya)
 
+<<<<<<< HEAD
+Facu: hola facu
+Maga: HOLA MAGA
+Flor: HOLA A TODOS
+=======
 Facu:
 <<<<<<< HEAD
 Maga: 
@@ -26,6 +31,7 @@ Maga:
 Maga: 
 >>>>>>> cdc3b4ca971d6b4035b508039adc05d1f9ccd88a
 Flor:
+>>>>>>> 3a4cec5c4314c8c73cd6a7b0b8491c98d6dbb1cd
 Guille:
 Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordinador de tareas. 
 
