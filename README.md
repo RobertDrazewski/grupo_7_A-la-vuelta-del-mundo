@@ -7,10 +7,14 @@ repositorio URL entregable: https://github.com/RobertDrazewski/grupo_7_A-la-vuel
 rubro: agencia de viajes
 nombre del proyecto: "Ala vuelta del mundo"
 
+(Rubro: agencia de vuelos)?
+
 2.1) Descripcion del producto o servicio: (cada uno puede agregar, quitar o modififar la descripcion siempre es bienbenido un cambio que sea bueno)
 
 En "A la vuelta del muendo" nos encargamos de todo para que tu viaje destino sea tu mejor experiencia, ahorraraz tiempo en aeropuertos, hay paquetes turisticos para todas las edades y la diversion siempre te acompañara, por que "a la vuelta del mundo" esta a la vuelta! accede online a como usuario para ver las promociones....
 
+Aportes de Guille: 
+En "Ala vuelta al mundo" conectamos la realidad con "tus" ganas de volar a "tu" lugar soñado, encontrá con nosotros los mejores precios, vuelos más cómodos y accesibles.
 
 
 2.2) Descripcion de los integrantes del equipo (cada uno que agregue la suya)
@@ -18,7 +22,7 @@ En "A la vuelta del muendo" nos encargamos de todo para que tu viaje destino sea
 Facu:
 Maga:
 Flor:
-Guille:
+Guille: me gustó el concepto del desarrollo web y emprendí!
 Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordinador de tareas. 
 
 3) buscar inspiracion referentes al mercado
@@ -26,7 +30,8 @@ Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordin
 www.despegar.com
 wwww.edreams.com
 www.skyskanner.com
-
+www.transmaldivian.com
+www.atrapalo.com.ar
 etc (pueden agregar)
 
 tenemos que analizar lo siguiente
