@@ -29,13 +29,20 @@ Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordin
 
 3) buscar inspiracion referentes al mercado
 
-www.despegar.com
+www.despegar.com = Es una página con buena paleta de colores, tiene un dato interesante que posee una aplicación propia para celulares.
+
 wwww.edreams.com
+
 www.skyskanner.com
 
 www.turismocity.com.ar
-www.almundo.com.ar
+
+www.almundo.com.ar = Es estéticamente agradable, tiene un formulario interesante en el que el cliente se pueda armar sus propios viajes, de una manera practica y casi entretenida
+
 www.jetsmart.com.ar
+
+www.tripadvisor.com.ar   = Es una página referente del rubro seleccionado para este proyecto(viajes), tiene un estética “minimalista?”, es agradable a la vista del usuario, nos sirve también para tener una referencia de que productos ofrecer, es una página intuitiva 
+
 
 etc (pueden agregar)
 
@@ -45,6 +52,7 @@ tenemos que analizar lo siguiente
 ● Por los clientes a los que apuntan.
 ● Por la estética que presentan.
 ● Por las funcionalidades implementadas.
+
 
 4) crear un Wireframe y un boceto del sitio
 
@@ -73,3 +81,13 @@ consulta a la hora de resolver dudas sobre cómo debe quedar tal o cual sección
 Por último, y no menos importante, sepan que las cosas pueden romperse, pueden no salir bien
 o tan bien como esperaban, y eso es totalmente normal. Lo importante es que aprendan a
 trabajar en conjunto para que el resultado sea cada vez mejor..
+
+
+
+    (información opcional)
+-	Herramientas utilizadas en este sprint: 
+o	Github 
+o	wireframe.cc
+o	figma
+o	Google Doc
+o	trello
