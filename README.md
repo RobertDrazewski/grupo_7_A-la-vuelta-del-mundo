@@ -21,7 +21,7 @@ A la vuelta del MUNDO contamos con pasajes aereos a todos los destinos, hoteles 
 <<<<<<< HEAD
 Facu: hola facu
 Maga: HOLA MAGA
-Flor: HOLA A TODOS
+Flor: me gusta mucho meditar y leer.
 =======
 Facu:
 <<<<<<< HEAD
