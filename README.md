@@ -1,22 +1,28 @@
-1) Crear el repositorio y agregar los colaboradores.
+1) Crear el repositorio y agregar los colaboradores
 
 repositorio URL entregable: https://github.com/RobertDrazewski/grupo_7_A-la-vuelta-del-mundo.git
 
 2) Definir la tematica del Market Place
 
 rubro: agencia de viajes
-nombre del proyecto: "Ala vuelta del mundo"
+nombre del proyecto: "A la vuelta del mundo", "por el mundo"
+slogan: "Vos lo soñas, nosotros lo hacemos realidad"
 
 2.1) Descripcion del producto o servicio: (cada uno puede agregar, quitar o modififar la descripcion siempre es bienbenido un cambio que sea bueno)
 
 En "A la vuelta del muendo" nos encargamos de todo para que tu viaje destino sea tu mejor experiencia, ahorraraz tiempo en aeropuertos, hay paquetes turisticos para todas las edades y la diversion siempre te acompañara, por que "a la vuelta del mundo" esta a la vuelta! accede online a como usuario para ver las promociones....
 
-
+Queres hacer el viaje de tus sueños y no sabes por donde empezar...
+Queres viajar con tu familia y que cada integrante pase las vacaciones anheladas que tanto quisieron...
+Queres empezar tu viaje ya mismo pero no sabes por donde....
+A la vuelta del MUNDO contamos con pasajes aereos a todos los destinos, hoteles de cinco estrellas, alquiler de autos, guias turisticos que te van acompañar y contar toda la historia de esos lugares que soñaste conocer y muchas cosas mas para poder hacer de tus vacaciones un lugar en el mundo.
 
 2.2) Descripcion de los integrantes del equipo (cada uno que agregue la suya)
 
+
 Facu:
-Maga:
+Maga: 
+Maga: 
 Flor:
 Guille:
 Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordinador de tareas. 
@@ -26,6 +32,10 @@ Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordin
 www.despegar.com
 wwww.edreams.com
 www.skyskanner.com
+
+www.turismocity.com.ar
+www.almundo.com.ar
+www.jetsmart.com.ar
 
 etc (pueden agregar)
 
