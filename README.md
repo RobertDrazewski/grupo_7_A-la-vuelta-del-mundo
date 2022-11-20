@@ -5,39 +5,41 @@ repositorio URL entregable: https://github.com/RobertDrazewski/grupo_7_A-la-vuel
 2) Definir la tematica del Market Place
 
 rubro: agencia de viajes
-nombre del proyecto: "Ala vuelta del mundo"
+nombre del proyecto: "A la vuelta del mundo", "por el mundo"
+slogan: "Vos lo soñas, nosotros lo hacemos realidad"
+
+(Rubro: agencia de vuelos)?
 
 2.1) Descripcion del producto o servicio: (cada uno puede agregar, quitar o modififar la descripcion siempre es bienbenido un cambio que sea bueno)
 
 En "A la vuelta del muendo" nos encargamos de todo para que tu viaje destino sea tu mejor experiencia, ahorraraz tiempo en aeropuertos, hay paquetes turisticos para todas las edades y la diversion siempre te acompañara, por que "a la vuelta del mundo" esta a la vuelta! accede online a como usuario para ver las promociones....
 
-Queres hacer el viaje de tus sueños y no sabes por donde empezar...
-Queres viajar con tu familia y que cada integrante pase las vacaciones anheladas que tanto quisieron...
-Queres empezar tu viaje ya mismo pero no sabes por donde....
-A la vuelta del MUNDO contamos con pasajes aereos a todos los destinos, hoteles de cinco estrellas, alquiler de autos, guias turisticos que te van acompañar y contar toda la historia de esos lugares que soñaste conocer y muchas cosas mas que podes llegar a necesitar para tus vacaciones el descanso tan merecido que soñaste
+
 
 2.2) Descripcion de los integrantes del equipo (cada uno que agregue la suya)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Facu: hola facu
 Maga: HOLA MAGA
 Flor: me gusta mucho meditar y leer.
 =======
-Facu:
-<<<<<<< HEAD
-Maga: cristo
 =======
-Maga: hola
->>>>>>> cdc3b4ca971d6b4035b508039adc05d1f9ccd88a
+
+>>>>>>> 98f5520aadfded59fb7473a8dd7c79544b69d378
+Facu:
+Maga: 
+Maga: 
 Flor:
->>>>>>> 3a4cec5c4314c8c73cd6a7b0b8491c98d6dbb1cd
-Guille:
+Guille: me gustó el concepto del desarrollo web y emprendí!
 Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordinador de tareas. 
 
 3) buscar inspiracion referentes al mercado
 
-www.despegar.com
+www.despegar.com = Es una página con buena paleta de colores, tiene un dato interesante que posee una aplicación propia para celulares.
+
 wwww.edreams.com
+
 www.skyskanner.com
 
 etc (pueden agregar)
@@ -48,6 +50,7 @@ tenemos que analizar lo siguiente
 ● Por los clientes a los que apuntan.
 ● Por la estética que presentan.
 ● Por las funcionalidades implementadas.
+
 
 4) crear un Wireframe y un boceto del sitio
 
@@ -76,3 +79,13 @@ consulta a la hora de resolver dudas sobre cómo debe quedar tal o cual sección
 Por último, y no menos importante, sepan que las cosas pueden romperse, pueden no salir bien
 o tan bien como esperaban, y eso es totalmente normal. Lo importante es que aprendan a
 trabajar en conjunto para que el resultado sea cada vez mejor..
+
+
+
+    (información opcional)
+-	Herramientas utilizadas en este sprint: 
+o	Github 
+o	wireframe.cc
+o	figma
+o	Google Doc
+o	trello
