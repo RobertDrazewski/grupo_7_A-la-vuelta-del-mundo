@@ -35,7 +35,6 @@ Guille: me gustó el concepto del desarrollo web y emprendí!
 Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordinador de tareas. 
 
 3) buscar inspiracion referentes al mercado
-
 www.despegar.com = Es una página con buena paleta de colores, tiene un dato interesante que posee una aplicación propia para celulares.
 
 wwww.edreams.com
@@ -43,6 +42,8 @@ wwww.edreams.com
 www.skyskanner.com
 
 etc (pueden agregar)
+
+ FLOR: Me inspiré en https://locasporlaaventura.com.ar/, es una página clara en cuanto a destinos, fechas e información en general, que apunta unicamente a mujeres que viajan solas. El diseño con colores celestes y blancos, hacen referencia al mar, lo que me parece muy acorde para una pagina de viajes.
 
 tenemos que analizar lo siguiente
  
