@@ -4,53 +4,39 @@ repositorio URL entregable: https://github.com/RobertDrazewski/grupo_7_A-la-vuel
 
 2) Definir la tematica del Market Place
 
-rubro: agencia de viajes
-nombre del proyecto: "A la vuelta del mundo", "por el mundo"
+rubro: agencia de vuelos
+nombre del proyecto: "A la vuelta del mundo"
 slogan: "Vos lo soñas, nosotros lo hacemos realidad"
 
-(Rubro: agencia de vuelos)?
 
-2.1) Descripcion del producto o servicio: (cada uno puede agregar, quitar o modififar la descripcion siempre es bienbenido un cambio que sea bueno)
+2.1) Descripcion del producto o servicio:
 
-En "A la vuelta del muendo" nos encargamos de todo para que tu viaje destino sea tu mejor experiencia, ahorraraz tiempo en aeropuertos, hay paquetes turisticos para todas las edades y la diversion siempre te acompañara, por que "a la vuelta del mundo" esta a la vuelta! accede online a como usuario para ver las promociones....
+En nuestro proyecto definimos una e-commerce pero ofrecemos un servicio.
+Básicamente es un buscador de vuelos con paquetes turísticos tipo "All included" donde además de viajar, podrás ir con guías, y visitar de una forma más organizada para aprovechar al máximo tu viaje.
 
+La descripcion que puede ir en el sitio web de nuestro servicio:
 
+En "A la vuelta del mundo" nos encargamos de todo para que tu viaje destino sea tu mejor experiencia, ahorrarás tiempo en aeropuertos, hay paquetes turísticos para todas las edades y la diversión siempre te acompañara, por que "a la vuelta del mundo"... está a la vuelta! accede online como usuario para conocer los increíbles destinos que tenemos para vos!....
 
-2.2) Descripcion de los integrantes del equipo (cada uno que agregue la suya)
+2.2) Descripcion de los integrantes del equipo
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 Facu: hola facu
 Maga: HOLA MAGA
 Flor: me gusta mucho meditar y leer.
-=======
-=======
-
->>>>>>> 98f5520aadfded59fb7473a8dd7c79544b69d378
-Facu:
-Maga: 
-Maga: 
-Flor:
 Guille: me gustó el concepto del desarrollo web y emprendí!
 Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordinador de tareas. 
 
 3) buscar inspiracion referentes al mercado
-www.despegar.com = Es una página con buena paleta de colores, tiene un dato interesante que posee una aplicación propia para celulares.
 
-wwww.edreams.com
+https://www.despegar.com.ar/ : Es una página con buena paleta de colores, tiene un dato interesante que posee una aplicación propia para celulares.
 
-www.skyskanner.com
+https://locasporlaaventura.com.ar/ : Es una página clara en cuanto a destinos, fechas e información en general, que apunta unicamente a mujeres que viajan solas. El diseño con colores celestes y blancos, hacen referencia al mar, lo que me parece muy acorde para una pagina de viajes.
 
-etc (pueden agregar)
+https://www.edreams.com/ :  Esta página es basicamente un buscador de vuelos, en donde se puede interactuar buscando de acorde a nuestras necesidades geograficas y economicas, ya que podemos organizar las sugerencias de vuelos por precio, si  los vuelos tienen escalas o si son vuelo directo, también existe la opción de los vuelos low cost. Además de buscar vuelos, también busca hoteles y alquiler de autos. En lo personal he utilizado esta pagina por varios viajes y nunca tuve problemas.
 
- FLOR: Me inspiré en https://locasporlaaventura.com.ar/, es una página clara en cuanto a destinos, fechas e información en general, que apunta unicamente a mujeres que viajan solas. El diseño con colores celestes y blancos, hacen referencia al mar, lo que me parece muy acorde para una pagina de viajes.
+https://www.easyjet.com/us/cheap-flights/discover-europe/ : Esta página es literalmente una empresa de low cost, los vuelos son todos en europa donde las distancias y los tiempos de vuelo son reducidos, se les recomienda a pasajeros que quieran volar en un dia a otro destino dentro de europa y quieran ahorrar dinero en tren, los vuelos son en horarios mas nocturnos por lo que podes ahorrar en alojamiento. Es una página con la paleta de colores muy diferente a las de su género, ya que es en tonalidades de naranja, y toda la aerolínea y el market es en color naranja.
 
-tenemos que analizar lo siguiente
- 
-● Por los productos o servicios que ofrecen.
-● Por los clientes a los que apuntan.
-● Por la estética que presentan.
-● Por las funcionalidades implementadas.
+https://www.skyscanner.net/airline/airline-easyjet-europe-eju.html/ : Está pagina ademas de ser tambien un buscador de vuelos, enlaza con su plataforma los tickets de vuelos y hace el check in por vos, solo basta con estar logueado como usuario. Otra de los servicios que ofrecen es una sala de espera VIP en aeropuertos de todo el mundo.
 
 
 4) crear un Wireframe y un boceto del sitio
@@ -67,24 +53,9 @@ Entregable (Opcional): Boceto o diseño del sitio incluyendo.
 ● Logo
 ● Colores
 ● Tipografías
-Tip: les recomendamos crear la carpeta design para incluir este contenido.
-
- Cierre
-Ya lo dijimos antes, pero vale la pena repetirlo: si quieren que su proyecto tenga más
-posibilidades de tener éxito, pónganle esmero a la etapa de planificación.
-Tener un documento que explique el objetivo y el contexto del sitio así como tener un listado de
-referentes provee un marco de referencia para resolver dudas.
-Tener un wireframe y un boceto del sitio permite que los integrantes del grupo trabajen por
-separado y que luego, al unir las piezas, todas coincidan. Por otro lado, es un documento de
-consulta a la hora de resolver dudas sobre cómo debe quedar tal o cual sección.
-Por último, y no menos importante, sepan que las cosas pueden romperse, pueden no salir bien
-o tan bien como esperaban, y eso es totalmente normal. Lo importante es que aprendan a
-trabajar en conjunto para que el resultado sea cada vez mejor..
 
 
-
-    (información opcional)
--	Herramientas utilizadas en este sprint: 
+Herramientas utilizadas en este sprint: 
 o	Github 
 o	wireframe.cc
 o	figma
