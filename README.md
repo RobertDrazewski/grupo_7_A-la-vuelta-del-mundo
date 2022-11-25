@@ -14,6 +14,12 @@ slogan: "Vos lo soñas, nosotros lo hacemos realidad"
 En nuestro proyecto definimos una e-commerce pero ofrecemos un servicio.
 Básicamente es un buscador de vuelos con paquetes turísticos tipo "All included" donde además de viajar, podrás ir con guías, y visitar de una forma más organizada para aprovechar al máximo tu viaje.
 
+Público:
+
+Nuestro servicio esta orientado para que nuestro cliente o "Viajer@", pueda comprar un paquete turístico sin importar la edad, ya que los destinos son variados, tambien se pueden agrupar personas que realizen el mismo paquete turistico o bien grupo familiar.
+
+Objetivo: de acuerdo a los meetings realizados, el objetivo de nuestro proyecto es realizar una página que sea simple y didactica, ya que va a ser utilizada por personas con diferentes edades, queremos optimizar la compra de un servicio, entregando al cliente un servicio para que sus proximas vacaciones nos vuelva a elegir.
+
 La descripcion que puede ir en el sitio web de nuestro servicio:
 
 En "A la vuelta del mundo" nos encargamos de todo para que tu viaje destino sea tu mejor experiencia, ahorrarás tiempo en aeropuertos, hay paquetes turísticos para todas las edades y la diversión siempre te acompañara, por que "a la vuelta del mundo"... está a la vuelta! accede online como usuario para conocer los increíbles destinos que tenemos para vos!....
