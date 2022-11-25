@@ -53,21 +53,34 @@ https://www.skyscanner.net/airline/airline-easyjet-europe-eju.html/ : Está pagi
 
 Entregable: Wireframe digital o analógico de las siguientes secciones del sitio:
 ● Home
+
 ● Detalle de producto
+
 ● Carrito de compras
+
 ● Formulario de registro
+
 ● Formulario de login
+
 Tip: les recomendamos crear la carpeta wireframes para incluir este contenido.
 
 Entregable (Opcional): Boceto o diseño del sitio incluyendo.
-● Logo
+
+● Logo 
+
 ● Colores
+
 ● Tipografías
 
 
 Herramientas utilizadas en este sprint: 
+
 o	Github 
+
 o	wireframe.cc
+
 o	figma
+
 o	Google Doc
+
 o	trello
