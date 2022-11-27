@@ -24,12 +24,26 @@ La descripcion que puede ir en el sitio web de nuestro servicio:
 
 En "A la vuelta del mundo" nos encargamos de todo para que tu viaje destino sea tu mejor experiencia, ahorrarás tiempo en aeropuertos, hay paquetes turísticos para todas las edades y la diversión siempre te acompañara, por que "a la vuelta del mundo"... está a la vuelta! accede online como usuario para conocer los increíbles destinos que tenemos para vos!....
 
+Servicios:
+
+    - vuelos: pasajes de ida, vuelta, o ambos
+
+    - hospedaje: (opcional), tenemos sitio de hospedaje , para cade destino
+
+    - transporte: traslados, o alquiler de vehiculo
+
+    - actividades: actividades por cada dia (turismo, festivo, cultural)
+
+    - ofertas: ofertas
+
+    - facilidad de pago : descuentos, cuotas, diferentes medios de pago
+
 2.2) Descripcion de los integrantes del equipo
 
-Facu: hola facu,
+Facu: Me gusta la música y el aire libre, soy estudiamte de programacion full stack.
 
 
-Maga: HOLA MAGA,
+Maga: Me considero curiosa, me gusta viajar y conocer otras culturas.
 
 
 Flor: me gusta mucho meditar y leer.
@@ -38,7 +52,7 @@ Flor: me gusta mucho meditar y leer.
 Guille: me gustó el concepto del desarrollo web y emprendí!
 
 
-Robert: soy muy organizado y me gusta mucho la musica, en mi trabajo soy coordinador de tareas. 
+Robert: soy muy organizado y me gusta mucho la música, en mi trabajo soy coordinador de tareas. 
 
 
 
@@ -54,6 +68,7 @@ https://www.easyjet.com/us/cheap-flights/discover-europe/ : Esta página es lite
 
 https://www.skyscanner.net/airline/airline-easyjet-europe-eju.html/ : Está pagina ademas de ser tambien un buscador de vuelos, enlaza con su plataforma los tickets de vuelos y hace el check in por vos, solo basta con estar logueado como usuario. Otra de los servicios que ofrecen es una sala de espera VIP en aeropuertos de todo el mundo.
 
+https://www.tripadvisor.com.ar/  :Es una página referente del rubro seleccionado para este proyecto(viajes), tiene un estética “minimalista?”, es agradable a la vista del usuario, nos sirve también para tener una referencia de que productos ofrecer, es una página intuitiva, tiene un estilo de logo interesante sin márgenes
 
 4) crear un Wireframe y un boceto del sitio
 
