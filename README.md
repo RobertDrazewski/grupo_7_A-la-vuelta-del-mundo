@@ -26,10 +26,10 @@ En "A la vuelta del mundo" nos encargamos de todo para que tu viaje destino sea 
 
 2.2) Descripcion de los integrantes del equipo
 
-Facu: hola facu
+Facu: hola facu,
 
 
-Maga: HOLA MAGA
+Maga: HOLA MAGA,
 
 
 Flor: me gusta mucho meditar y leer.
