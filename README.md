@@ -9,7 +9,7 @@ nombre del proyecto: "A la vuelta del mundo"
 slogan: "Vos lo soñas, nosotros lo hacemos realidad"
 
 
-2.1) Descripcion del producto o servicio:
+2.1) Descripción del producto o servicio:
 
 En nuestro proyecto definimos una e-commerce pero ofrecemos un servicio.
 Básicamente es un buscador de vuelos con paquetes turísticos tipo "All included" donde además de viajar, podrás ir con guías, y visitar de una forma más organizada para aprovechar al máximo tu viaje.
